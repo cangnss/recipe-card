@@ -1,0 +1,18 @@
+.card {
+    width: 38%;
+	background-color: white;
+	color: #272727;
+	padding: 20px;
+	border-radius: 10px;
+	border: 0px;
+	border-color: tomato;
+	border-style: solid;
+	transition: 200ms;
+}
+
+.card:hover {
+	transition: 200ms;
+	border: 3px;
+	border-color: tomato;
+	border-style: solid;
+}
